@@ -9,6 +9,10 @@ padding: 0;
     margin-left: 22px;
 }
 
+#back{
+    font-size: 2rem;
+}
+
 #box{
     width: 270px;
     height: 270px;
